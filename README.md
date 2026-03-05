@@ -1,4 +1,4 @@
-# citation_network_analysis
+# Graph Network Analysis - Research Paper Citations Network
 
 Network Analysis of the Arxiv High-energy physics theory (HEP-TH) citation network dataset.
 
